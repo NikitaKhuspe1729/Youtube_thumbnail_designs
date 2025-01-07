@@ -11,6 +11,7 @@ Created Youtube thumbnail designs using Pixllab, Figma, Canva
 ![Frame 77](https://github.com/user-attachments/assets/3b7d23b2-75a4-401b-95ea-ed07ec77fbf8)
 ![Frame 76](https://github.com/user-attachments/assets/260abda8-d03d-41be-82ee-8a21d05b6e2f)
 
+
 # Canva
 ![vlogs](https://github.com/user-attachments/assets/7162299b-764f-4b25-b95e-8d440da2d2a4)
 ![yt thumbnail](https://github.com/user-attachments/assets/1e6f5508-6305-40c6-880c-821dc91ec396)
