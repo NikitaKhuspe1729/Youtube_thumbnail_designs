@@ -5,6 +5,11 @@ Created Youtube thumbnail designs using Pixllab, Figma, Canva
 ![20241210_140334](https://github.com/user-attachments/assets/d6e48950-e7f1-4e69-9b07-ec90074db4ff)
 # Figma
 ![quiz 1](https://github.com/user-attachments/assets/95083ddf-1029-4606-8ee4-da50b90d6e4d)
+![Frame 26](https://github.com/user-attachments/assets/a7cf61ba-e3b5-4a92-b32e-4d33079e70ab)
+![Frame 79](https://github.com/user-attachments/assets/f9e1e9eb-060b-4a42-bcca-91e2f8710007)
+![Frame 78](https://github.com/user-attachments/assets/9dd992c1-e1fc-44cb-b6cf-394c1034b460)
+![Frame 77](https://github.com/user-attachments/assets/3b7d23b2-75a4-401b-95ea-ed07ec77fbf8)
+![Frame 76](https://github.com/user-attachments/assets/260abda8-d03d-41be-82ee-8a21d05b6e2f)
 
 # Canva
 ![vlogs](https://github.com/user-attachments/assets/7162299b-764f-4b25-b95e-8d440da2d2a4)
